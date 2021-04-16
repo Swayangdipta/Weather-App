@@ -8,4 +8,4 @@ Public Repository for Weathering with you <br/>
 Weather App built using ReactJs as UI and OpenWeatherMap API
 
 
-Visit:- http://weathring.herokuapp.com/
+Visit:- http://weatheringg.herokuapp.com/
